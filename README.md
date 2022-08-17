@@ -4,6 +4,5 @@
 - 🌱 I’m currently learning Backend and Python.
 - 👯 I’m looking to collaborate on exciting new projects!
 - 📫 How to reach me: @deepkiratsingh@gmail.com
-- 😄 Pronouns: he/his
 
 [![Deepkirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepkirat)](https://github.com/deepkirat/github-readme-stats)
